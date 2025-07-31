@@ -1,6 +1,6 @@
 # Telecom Customer Churn Prediction
 
-**Author:** [Your Name]
+**Author:** [SunHuan]
 **Date:** 2025-07-31
 
 ---
